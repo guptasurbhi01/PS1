@@ -1,1 +1,1 @@
-An HTMl Form with inspection data Which displays an another webpage using PHP. 
+An HTMl Form with inspection data Which uses PHP. 
